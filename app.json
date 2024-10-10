@@ -1,7 +1,6 @@
 {
   "expo": {
     "name": "react_native",
-    "scheme":"myapp",
     "slug": "react_native",
     "version": "1.0.0",
     "orientation": "portrait",
